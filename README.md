@@ -1,4 +1,3 @@
-Sistemas Operativos II - Laboratorio I IPC
 # Client-Server using Inter-Process Communication
 
 ## Date - 2023
